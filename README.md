@@ -3,7 +3,7 @@
 
 
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MiguxJS&theme=tokyonight)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=MiguxJS&theme=gruvbox&hide_border=true" alt="MiguxJS's GitHub Stats" />
  
 
 
