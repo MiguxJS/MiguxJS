@@ -7,6 +7,7 @@
 <img src="https://streak-stats.demolab.com?user=MiguxJS&theme=gruvbox&hide_border=true" alt="MiguxJS's GitHub Stats" />
  </div>
 
+<hr>
 
  <div align="center">
   
