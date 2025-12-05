@@ -14,6 +14,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MiguxJS&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bo44sh3nthlr34aq3qn4qeyucy&unique={true|1|on|yes})
   
  </div>
