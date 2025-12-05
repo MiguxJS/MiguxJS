@@ -1,7 +1,7 @@
 
 [![MasterHead](./2.png)](https://github.com/user-attachments/assets/d7af391d-be42-458f-99bd-c56fadbd3c01)
 
-< center
+<center
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MiguxJS&theme=tokyonight)](https://git.io/streak-stats)
 >
 
