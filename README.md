@@ -1,10 +1,12 @@
 
 [![MasterHead](./2.png)](https://github.com/user-attachments/assets/d7af391d-be42-458f-99bd-c56fadbd3c01)
 
+<hr>
 
  <div align="center">
 <img src="https://streak-stats.demolab.com?user=MiguxJS&theme=gruvbox&hide_border=true" alt="MiguxJS's GitHub Stats" />
  </div>
+
 
  <div align="center">
   
