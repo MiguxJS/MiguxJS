@@ -15,7 +15,7 @@
 
 <hr>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bo44sh3nthlr34aq3qn4qeyucy&unique={true|1|on|yes})
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31bo44sh3nthlr34aq3qn4qeyucy&count=1&unique=1)
   
  </div>
 <h2 align="center">Technology Stack <img src=./descarga.gif width="60"></h2>
