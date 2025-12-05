@@ -6,8 +6,9 @@
 <img src="https://streak-stats.demolab.com?user=MiguxJS&theme=gruvbox&hide_border=true" alt="MiguxJS's GitHub Stats" />
  </div>
 
-
+ <div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ </div>
 <h2 align="center">Technology Stack <img src=./descarga.gif width="30"></h2>
 
 <p align="center">
