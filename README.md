@@ -11,7 +11,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MiguxJS&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
   
  </div>
-<h2 align="center">Technology Stack <img src=./descarga.gif width="30"></h2>
+<h2 align="center">Technology Stack <img src=./descarga.gif width="60"></h2>
 
 <p align="center">
  
