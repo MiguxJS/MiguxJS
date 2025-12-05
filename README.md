@@ -8,7 +8,7 @@
 
  <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MiguxJS&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
   
  </div>
 <h2 align="center">Technology Stack <img src=./descarga.gif width="30"></h2>
