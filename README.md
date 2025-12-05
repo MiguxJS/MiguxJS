@@ -1,5 +1,5 @@
 
-[![MasterHead](./banner.png)](https://github.com/user-attachments/assets/d7af391d-be42-458f-99bd-c56fadbd3c01)
+[![MasterHead](./banner1.png)](https://github.com/user-attachments/assets/d7af391d-be42-458f-99bd-c56fadbd3c01)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MiguxJS&theme=tokyonight)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <h2 align="center">Technology Stack <img src=./descarga.gif width="30"></h2>
