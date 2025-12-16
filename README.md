@@ -33,6 +33,6 @@
 
 <img src="https://img.shields.io/badge/QML-44A813?logo=qt&logoColor=white&style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"/>
+<img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" width="30"/>
 
 </p>
