@@ -30,4 +30,6 @@
 
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+
+<img src="https://img.shields.io/badge/QML-44A813?logo=qt&logoColor=white&style=flat-square"/>
 </p>
