@@ -33,6 +33,6 @@
 
 <img src="https://img.shields.io/badge/QML-44A813?logo=qt&logoColor=white&style=flat-square"/>
 
-![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
+<img src="https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white"/>
 
 </p>
